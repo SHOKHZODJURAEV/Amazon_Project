@@ -1,4 +1,4 @@
-@signIn
+@smoke
   Feature: User should provide provide all information to sign in;
 
     Scenario: User provide unvalid information to Sign in

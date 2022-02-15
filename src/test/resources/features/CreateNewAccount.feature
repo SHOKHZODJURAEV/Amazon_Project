@@ -1,4 +1,4 @@
-@smoke
+
 Feature: Create new Amazon account and provide invalid credentials
 
   Scenario: create and provide invalid Credentials

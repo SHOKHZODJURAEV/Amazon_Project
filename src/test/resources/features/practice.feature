@@ -1,3 +1,4 @@
+@smoke
 Feature: Login Etsy page and Scroll down
 
   Scenario: Login Etsy page and Scroll down
