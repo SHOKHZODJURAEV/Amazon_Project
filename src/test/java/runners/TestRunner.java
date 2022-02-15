@@ -13,8 +13,8 @@ import org.junit.runner.RunWith;
                 "me.jvt.cucumber.report.PrettyReports:target" //this is fancy report
         }
         ,publish=true
-        ,dryRun = false
-        //,tags = "@ui"
+        ,dryRun = true
+        ,tags = "@smoke"
 
 
 )
